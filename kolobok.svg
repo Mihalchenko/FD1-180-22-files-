@@ -1,0 +1,21 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="250" cy="345" rx="70" ry="20" fill="lightgray"></ellipse>
+    <ellipse cx="550" cy="345" rx="70" ry="20" fill="lightgray"></ellipse>
+    <circle cx="250" cy="250" r="100" fill="orange"></circle>
+    <circle cx="550" cy="250" r="100" fill="yellow"></circle>
+    <circle cx="245" cy="220" r="35" fill="white"></circle>
+    <circle cx="285" cy="220" r="35" fill="white"></circle>
+    <circle cx="250" cy="220" r="8" fill="black"></circle>
+    <circle cx="290" cy="220" r="8" fill="black"></circle>
+    <circle cx="270" cy="255" r="10" fill="black"></circle>
+    <ellipse cx="255" cy="290" rx="20" ry="10" fill="indianred"></ellipse>
+    <polygon points="180,180 185,150 210,160" stroke="orange" stroke-width="3" fill="black"></polygon>
+    <polygon points="255,155 280,135 290,160" stroke="orange" stroke-width="3" fill="black"></polygon>
+    <circle cx="505" cy="220" r="35" fill="white"></circle>
+    <circle cx="545" cy="220" r="35" fill="white"></circle>
+    <circle cx="500" cy="220" r="8" fill="black"></circle>
+    <circle cx="540" cy="220" r="8" fill="black"></circle>
+    <ellipse cx="525" cy="290" rx="10" ry="18" fill="indianred"></ellipse>
+    <ellipse cx="170" cy="230" rx="65" ry="25" fill="orange" transform="rotate(15)"></ellipse>
+    <polygon points="60,268 48,248 70,242" stroke="white" fill="white"></polygon>
+</svg>
